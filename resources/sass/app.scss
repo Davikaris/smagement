@@ -1,0 +1,37 @@
+@import "~admin-lte/plugins/fontawesome-free/css/all.css";
+
+
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+
+
+$fa-font-path:"../webfonts";
+@import 'variables';
+@import '~toastr/toastr';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+
+@import '~admin-lte/dist/css/adminlte.css';
+@import "@fortawesome/fontawesome-free";
+
+
+// .navbar-laravel{
+//     background-color: white;
+//     box-shadow: 0 2px 4px rgba($color: 0,0,0,0.04);
+// }
+
+
+.router-link-exact-active{
+
+    background-color: rgb(12, 9, 65) !important ;
+    color: white !important;
+   }
+.router-nav-link-active{
+
+    background-color: rgb(12, 9, 65) !important ;
+    color: white !important;
+   }

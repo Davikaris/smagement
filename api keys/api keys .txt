@@ -1,0 +1,9 @@
+Root@DESKTOP-M67AM4R MINGW64 ~/desktop/2020/smanagement (master)
+$ php artisan passport:install
+Encryption keys generated successfully.
+Personal access client created successfully.
+Client ID: 1
+Client secret: q4Ia5XaSuy9uCxABhjwsgHNrgspC4wUGbCQd17UO
+Password grant client created successfully.
+Client ID: 2
+Client secret: zr4EFayxmYPxFCKrkY8JxJgUAzGNN7jIbMdq4poS
